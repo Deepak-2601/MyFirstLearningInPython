@@ -1,6 +1,6 @@
 import time
 i = 0
-n0 = 2
+n0 = 0
 n1 = 1
 while i < 8:
     f1 = n0 * n1
