@@ -2,7 +2,7 @@ a = []
 b = ""
 i = 0
 y = False
-while i < 11:
+while i < 5:
     b = input(f"Please enter {i} name to the list: ")
     a.append(b)
     i = i + 1
